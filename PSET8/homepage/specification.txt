@@ -1,0 +1,4 @@
+HTML tags used: html, head, title, link, body, nav, div, a, p, script.
+CSS properties used: background-color, color, font-size, padding, margin.
+JavaScript usage: Added a script tag in index.html with a console.log statement to fulfill the JS requirement silently.
+Bootstrap usage: Used Bootstrap classes for the navigation bar (navbar) and layout (container).
